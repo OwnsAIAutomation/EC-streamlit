@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 import google.generativeai as genai
 
 # APIキーを直接設定
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-xxx"
 GEMINI_API_KEY = "AIzaSyBVi8qwD4lKjJ7IL76S_edr7Scmsl9mFZ8"
 
 # Webhook設定を直接コードに埋め込む
